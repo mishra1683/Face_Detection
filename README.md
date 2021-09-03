@@ -19,4 +19,4 @@ Face detection is a computer vision technology that helps to locate/visualize hu
 
 ----
 # Demonstration
-  ![](Demo/Demo.mp4)
+  ![](Demo/Demo.gif)
