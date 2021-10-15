@@ -1,2 +1,2 @@
-OpenCV=4.5.3
-matplotlib==3.3.4
+openCV==4.5.3
+streamlit==1.0.0
